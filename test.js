@@ -11,3 +11,5 @@ function hello() {
 function main() {
     hello();
 }
+
+main();
